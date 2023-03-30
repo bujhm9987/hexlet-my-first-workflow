@@ -1,6 +1,3 @@
-[bash]
-----
-make say-hello
-Hello, World!
-----
+make say-hello:
+	echo "Hello, World!"
 
