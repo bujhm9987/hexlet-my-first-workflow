@@ -1,7 +1,0 @@
-name: GitHub Actions hexlet-my-first-workflow 
-on: push
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - run: Makefile
